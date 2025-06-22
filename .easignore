@@ -1,0 +1,5 @@
+# Ignorujeme Expo cache složky
+.expo
+.expo/**
+.expo-shared
+.expo-shared/**
